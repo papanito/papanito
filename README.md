@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate DevOps Engineer from Switzerland</h3>
 
-- 📝 I regularly write articles on [https://wyssmann.com](https://wyssmann.com)
+- 📝 I regularly write articles on [https://wyssmann.com](https://wyssmann.com/blog)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papanito&label=Profile%20views&color=0e75b6&style=flat" alt="papanito" /> </p>
 
