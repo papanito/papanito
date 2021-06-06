@@ -1,3 +1,5 @@
+![Profile](https://komarev.com/ghpvc/?username=papanito&label=Profile%20views&color=0e75b6&style)
+
 ## Hi 👋, I'm Adrian
 
 I am a passionate DevOps Engineer from Switzerland, father of five and husband of the most beautiful and most amazing women in the world.
@@ -13,14 +15,12 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - May 13 - [Update of packer-vagrant project using HCL](https://wyssmann.com/blog/2021/05/update-of-packer-vagrant-project-using-hcl/)
 <!-- feed end -->
 
-![Profile](https://komarev.com/ghpvc/?username=papanito&label=Profile%20views&color=0e75b6&style)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=papanito&)
 
 ### Languages and Tools
 
-![MOst used languages](https://github-readme-stats.vercel.app/api/top-langs?username=papanito&show_icons=true&locale=en&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=papanito&show_icons=true&locale=en&layout=compact)
 
 <p align="left"> <a href="https://ansible.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="anisble" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -40,7 +40,4 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 
 ### Support
 
-<p><a href="https://www.buymeacoffee.com/papanito"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="papanito" /></a></p><br><br>
-
-
-
+<p><a href="https://www.buymeacoffee.com/papanito"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="papanito" /></a></p>
