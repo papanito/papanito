@@ -9,6 +9,10 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=papanito&)
 
+### Latest Blog Posts
+
+<!-- feed start -->
+<!-- feed end -->
 
 ### Languages and Tools
 
