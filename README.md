@@ -4,13 +4,6 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
-![Profile](https://komarev.com/ghpvc/?username=papanito&label=Profile%20views&color=0e75b6&style)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=papanito&)
-
-### Latest Blog Posts
-
 <!-- feed start -->
 - Jun 05 - [Self-Paced Studying of Programming and SW Engineering](https://wyssmann.com/blog/2021/06/self-paced-studying-of-programming-and-sw-engineering/)
 - May 31 - [What is as istio?](https://wyssmann.com/blog/2021/05/what-is-as-istio/)
@@ -19,6 +12,11 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - May 17 - [What is Stackrox (Red Hat Advanced Cluster Security for Kubernetes)?](https://wyssmann.com/blog/2021/05/what-is-stackrox-red-hat-advanced-cluster-security-for-kubernetes/)
 - May 13 - [Update of packer-vagrant project using HCL](https://wyssmann.com/blog/2021/05/update-of-packer-vagrant-project-using-hcl/)
 <!-- feed end -->
+
+![Profile](https://komarev.com/ghpvc/?username=papanito&label=Profile%20views&color=0e75b6&style)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=papanito&)
 
 ### Languages and Tools
 
