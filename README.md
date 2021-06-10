@@ -7,12 +7,12 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Jun 10 - [What is cloud computing?](https://wyssmann.com/blog/2021/06/what-is-cloud-computing/)
+- Jun 10 - [Microsoft Azure Fundamentals](https://wyssmann.com/blog/2021/06/microsoft-azure-fundamentals/)
 - Jun 05 - [Self-Paced Studying of Programming and SW Engineering](https://wyssmann.com/blog/2021/06/self-paced-studying-of-programming-and-sw-engineering/)
 - May 31 - [What is as istio?](https://wyssmann.com/blog/2021/05/what-is-as-istio/)
 - May 28 - [What is as a service mesh?](https://wyssmann.com/blog/2021/05/what-is-as-a-service-mesh/)
 - May 22 - [Crowdsec, a collaborative behavior detection engine](https://wyssmann.com/blog/2021/05/crowdsec-a-collaborative-behavior-detection-engine/)
-- May 17 - [What is Stackrox (Red Hat Advanced Cluster Security for Kubernetes)?](https://wyssmann.com/blog/2021/05/what-is-stackrox-red-hat-advanced-cluster-security-for-kubernetes/)
-- May 13 - [Update of packer-vagrant project using HCL](https://wyssmann.com/blog/2021/05/update-of-packer-vagrant-project-using-hcl/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
