@@ -18,6 +18,10 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=papanito&)
 
+### Ansible Roles
+
+See [Ansible Project](https://github.com/users/papanito/projects/3) for work in progress and a list of roles. If you have any question, the discussion is enabled on these projects.
+
 ### Languages and Tools
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=papanito&show_icons=true&locale=en&layout=compact)
