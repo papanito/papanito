@@ -13,6 +13,10 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Jun 23 - [Authentication and Authorization in Kubernetes](https://wyssmann.com/blog/2021/06/authentication-and-authorization-in-kubernetes/)
 - Jun 21 - [What is the Kubernetes API and CRD](https://wyssmann.com/blog/2021/06/what-is-the-kubernetes-api-and-crd/)
 - Jun 10 - [Microsoft Azure Fundamentals](https://wyssmann.com/blog/2021/06/microsoft-azure-fundamentals/)
+- Jun 07 - [What is cloud computing?](https://wyssmann.com/blog/2021/06/what-is-cloud-computing/)
+- Jun 05 - [Self-Paced Studying of Programming and SW Engineering](https://wyssmann.com/blog/2021/06/self-paced-studying-of-programming-and-sw-engineering/)
+- May 31 - [What is as istio?](https://wyssmann.com/blog/2021/05/what-is-as-istio/)
+- May 28 - [What is as a service mesh?](https://wyssmann.com/blog/2021/05/what-is-as-a-service-mesh/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
