@@ -15,7 +15,7 @@ jobs:
         with:
           url: 'https://wyssmann.com/blog/index.xml'
           file: 'README.md'
-          max_entry: 6
+          max_entry: 10
           ensure_all: true
       - run: |
           git config --global user.name "${{ github.actor }}"
