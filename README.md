@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Jul 13 - [Link Collection Update](https://wyssmann.com/blog/2021/07/link-collection-update/)
 - Jul 09 - [Packet filtering in Linux - iptables, nftables and firewalld](https://wyssmann.com/blog/2021/07/packet-filtering-in-linux-iptables-nftables-and-firewalld/)
 - Jul 07 - [Connect an on-premises network to Azure](https://wyssmann.com/blog/2021/07/connect-an-on-premises-network-to-azure/)
 - Jul 05 - [Linux on Microsoft Azure](https://wyssmann.com/blog/2021/07/linux-on-microsoft-azure/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Jun 10 - [Microsoft Azure Fundamentals](https://wyssmann.com/blog/2021/06/microsoft-azure-fundamentals/)
 - Jun 07 - [What is cloud computing?](https://wyssmann.com/blog/2021/06/what-is-cloud-computing/)
 - Jun 05 - [Self-Paced Studying of Programming and SW Engineering](https://wyssmann.com/blog/2021/06/self-paced-studying-of-programming-and-sw-engineering/)
-- May 31 - [What is istio?](https://wyssmann.com/blog/2021/05/what-is-istio/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
