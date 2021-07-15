@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Jul 15 - [How I manage my dotfiles](https://wyssmann.com/blog/2021/07/how-i-manage-my-dotfiles/)
 - Jul 13 - [Adminforge](https://wyssmann.com/blog/2021/07/adminforge/)
 - Jul 13 - [Link Collection Update](https://wyssmann.com/blog/2021/07/link-collection-update/)
 - Jul 09 - [Packet filtering in Linux - iptables, nftables and firewalld](https://wyssmann.com/blog/2021/07/packet-filtering-in-linux-iptables-nftables-and-firewalld/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Jun 23 - [Authentication and Authorization in Kubernetes](https://wyssmann.com/blog/2021/06/authentication-and-authorization-in-kubernetes/)
 - Jun 21 - [What is the Kubernetes API and CRD](https://wyssmann.com/blog/2021/06/what-is-the-kubernetes-api-and-crd/)
 - Jun 10 - [Microsoft Azure Fundamentals](https://wyssmann.com/blog/2021/06/microsoft-azure-fundamentals/)
-- Jun 07 - [What is cloud computing?](https://wyssmann.com/blog/2021/06/what-is-cloud-computing/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
