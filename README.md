@@ -7,16 +7,16 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Jul 18 - [New ansible role papanito.systemd_notifiers](https://wyssmann.com/blog/2021/07/new-ansible-role-papanito.systemd_notifiers/)
 - Jul 16 - [Notifications for failing Systemd services](https://wyssmann.com/blog/2021/07/notifications-for-failing-systemd-services/)
 - Jul 15 - [How I manage my dotfiles](https://wyssmann.com/blog/2021/07/how-i-manage-my-dotfiles/)
-- Jul 13 - [Adminforge](https://wyssmann.com/blog/2021/07/adminforge/)
+- Jul 13 - [Adminforge - hosted free services for free](https://wyssmann.com/blog/2021/07/adminforge-hosted-free-services-for-free/)
 - Jul 13 - [Link Collection Update](https://wyssmann.com/blog/2021/07/link-collection-update/)
 - Jul 09 - [Packet filtering in Linux - iptables, nftables and firewalld](https://wyssmann.com/blog/2021/07/packet-filtering-in-linux-iptables-nftables-and-firewalld/)
 - Jul 07 - [Connect an on-premises network to Azure](https://wyssmann.com/blog/2021/07/connect-an-on-premises-network-to-azure/)
 - Jul 05 - [Linux on Microsoft Azure](https://wyssmann.com/blog/2021/07/linux-on-microsoft-azure/)
 - Jul 01 - [Cheatsheets and KB](https://wyssmann.com/blog/2021/07/cheatsheets-and-kb/)
 - Jun 23 - [Authentication and Authorization in Kubernetes](https://wyssmann.com/blog/2021/06/authentication-and-authorization-in-kubernetes/)
-- Jun 21 - [What is the Kubernetes API and CRD](https://wyssmann.com/blog/2021/06/what-is-the-kubernetes-api-and-crd/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
