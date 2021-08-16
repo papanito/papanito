@@ -22,6 +22,10 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=papanito&)
 
+You may also find me at Stackoverflow:
+
+<a href="https://stackexchange.com/users/81550/papanito"><img src="https://stackexchange.com/users/flair/81550.png" width="208" height="58" alt="profile for papanito on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for papanito on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 ### Ansible Roles
 
 See [Ansible Project](https://github.com/users/papanito/projects/3) for work in progress and a list of roles. If you have any question, the discussion is enabled on these projects.
