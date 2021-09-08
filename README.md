@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Sep 08 - [Collecting logs from salt-managed nodes without ssh access](https://wyssmann.com/blog/2021/09/collecting-logs-from-salt-managed-nodes-without-ssh-access/)
 - Aug 17 - [Your first Kubernetes deployment](https://wyssmann.com/blog/2021/08/your-first-kubernetes-deployment/)
 - Jul 18 - [New ansible role papanito.systemd_notifiers](https://wyssmann.com/blog/2021/07/new-ansible-role-papanito.systemd_notifiers/)
 - Jul 16 - [Notifications for failing Systemd services](https://wyssmann.com/blog/2021/07/notifications-for-failing-systemd-services/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Jul 09 - [Packet filtering in Linux - iptables, nftables and firewalld](https://wyssmann.com/blog/2021/07/packet-filtering-in-linux-iptables-nftables-and-firewalld/)
 - Jul 07 - [Connect an on-premises network to Azure](https://wyssmann.com/blog/2021/07/connect-an-on-premises-network-to-azure/)
 - Jul 05 - [Linux on Microsoft Azure](https://wyssmann.com/blog/2021/07/linux-on-microsoft-azure/)
-- Jul 01 - [Cheatsheets and KB](https://wyssmann.com/blog/2021/07/cheatsheets-and-kb/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
