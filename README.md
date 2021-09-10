@@ -7,16 +7,16 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Sep 09 - [How to add encoded key- and truststore to K8s secret](https://wyssmann.com/blog/2021/09/how-to-add-encoded-key-and-truststore-to-k8s-secret/)
+- Sep 09 - [Keystore and Truststore in Java](https://wyssmann.com/blog/2021/09/keystore-and-truststore-in-java/)
+- Sep 09 - [Rancher 2.5.x v2 logging using splunk](https://wyssmann.com/blog/2021/09/rancher-2.5.x-v2-logging-using-splunk/)
+- Sep 09 - [Rancher 2.5.x monitoring and alerting with MS Teams](https://wyssmann.com/blog/2021/09/rancher-2.5.x-monitoring-and-alerting-with-ms-teams/)
 - Sep 08 - [Collecting logs from salt-managed nodes without ssh access](https://wyssmann.com/blog/2021/09/collecting-logs-from-salt-managed-nodes-without-ssh-access/)
 - Aug 17 - [Your first Kubernetes deployment](https://wyssmann.com/blog/2021/08/your-first-kubernetes-deployment/)
+- Aug 15 - [Manually create certificates and certificate signing request](https://wyssmann.com/blog/2021/08/manually-create-certificates-and-certificate-signing-request/)
+- Aug 05 - [Upgrade istio, monitoring and logging from Rancher 2.4.x. to 2.5.x](https://wyssmann.com/blog/2021/08/upgrade-istio-monitoring-and-logging-from-rancher-2.4.x.-to-2.5.x/)
 - Jul 18 - [New ansible role papanito.systemd_notifiers](https://wyssmann.com/blog/2021/07/new-ansible-role-papanito.systemd_notifiers/)
 - Jul 16 - [Notifications for failing Systemd services](https://wyssmann.com/blog/2021/07/notifications-for-failing-systemd-services/)
-- Jul 15 - [How I manage my dotfiles](https://wyssmann.com/blog/2021/07/how-i-manage-my-dotfiles/)
-- Jul 13 - [Adminforge - hosted free services for free](https://wyssmann.com/blog/2021/07/adminforge-hosted-free-services-for-free/)
-- Jul 13 - [Link Collection Update](https://wyssmann.com/blog/2021/07/link-collection-update/)
-- Jul 09 - [Packet filtering in Linux - iptables, nftables and firewalld](https://wyssmann.com/blog/2021/07/packet-filtering-in-linux-iptables-nftables-and-firewalld/)
-- Jul 07 - [Connect an on-premises network to Azure](https://wyssmann.com/blog/2021/07/connect-an-on-premises-network-to-azure/)
-- Jul 05 - [Linux on Microsoft Azure](https://wyssmann.com/blog/2021/07/linux-on-microsoft-azure/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
