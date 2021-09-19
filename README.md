@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Sep 19 - [Use Archlinux as your pentest distribution](https://wyssmann.com/blog/2021/09/use-archlinux-as-your-pentest-distribution/)
 - Sep 09 - [How to add encoded key- and truststore to K8s secret](https://wyssmann.com/blog/2021/09/how-to-add-encoded-key-and-truststore-to-k8s-secret/)
 - Sep 09 - [Keystore and Truststore in Java](https://wyssmann.com/blog/2021/09/keystore-and-truststore-in-java/)
 - Sep 09 - [Rancher 2.5.x v2 logging using splunk](https://wyssmann.com/blog/2021/09/rancher-2.5.x-v2-logging-using-splunk/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Aug 15 - [Manually create certificates and certificate signing request](https://wyssmann.com/blog/2021/08/manually-create-certificates-and-certificate-signing-request/)
 - Aug 05 - [Upgrade istio, monitoring and logging from Rancher 2.4.x. to 2.5.x](https://wyssmann.com/blog/2021/08/upgrade-istio-monitoring-and-logging-from-rancher-2.4.x.-to-2.5.x/)
 - Jul 18 - [New ansible role papanito.systemd_notifiers](https://wyssmann.com/blog/2021/07/new-ansible-role-papanito.systemd_notifiers/)
-- Jul 16 - [Notifications for failing Systemd services](https://wyssmann.com/blog/2021/07/notifications-for-failing-systemd-services/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
