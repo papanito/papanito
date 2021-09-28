@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Sep 28 - [Hosttech GmbH, a swiss-based datacenter and cloud provider](https://wyssmann.com/blog/2021/09/hosttech-gmbh-a-swiss-based-datacenter-and-cloud-provider/)
 - Sep 26 - [Network simulation with GNS3 and CML](https://wyssmann.com/blog/2021/09/network-simulation-with-gns3-and-cml/)
 - Sep 19 - [Use Archlinux as your pentest distribution](https://wyssmann.com/blog/2021/09/use-archlinux-as-your-pentest-distribution/)
 - Sep 09 - [How to add encoded key- and truststore to K8s secret](https://wyssmann.com/blog/2021/09/how-to-add-encoded-key-and-truststore-to-k8s-secret/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Sep 08 - [Collecting logs from salt-managed nodes without ssh access](https://wyssmann.com/blog/2021/09/collecting-logs-from-salt-managed-nodes-without-ssh-access/)
 - Aug 17 - [Your first Kubernetes deployment](https://wyssmann.com/blog/2021/08/your-first-kubernetes-deployment/)
 - Aug 15 - [Manually create certificates and certificate signing request](https://wyssmann.com/blog/2021/08/manually-create-certificates-and-certificate-signing-request/)
-- Aug 05 - [Upgrade istio, monitoring and logging from Rancher 2.4.x. to 2.5.x](https://wyssmann.com/blog/2021/08/upgrade-istio-monitoring-and-logging-from-rancher-2.4.x.-to-2.5.x/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
