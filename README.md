@@ -50,6 +50,6 @@ See [Ansible Project](https://github.com/users/papanito/projects/3) for work in 
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
 
-### Support
+### Support me
 
-<p><a href="https://www.buymeacoffee.com/papanito"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="papanito" /></a></p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E840H5P)
