@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Oct 20 - [Tux-Tage 2021](https://wyssmann.com/blog/2021/10/tux-tage-2021/)
 - Sep 28 - [Hosttech GmbH, a swiss-based datacenter and cloud provider](https://wyssmann.com/blog/2021/09/hosttech-gmbh-a-swiss-based-datacenter-and-cloud-provider/)
 - Sep 26 - [Network simulation with GNS3 and CML](https://wyssmann.com/blog/2021/09/network-simulation-with-gns3-and-cml/)
 - Sep 19 - [Use Archlinux as your pentest distribution](https://wyssmann.com/blog/2021/09/use-archlinux-as-your-pentest-distribution/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Sep 09 - [Rancher 2.5.x monitoring and alerting with MS Teams](https://wyssmann.com/blog/2021/09/rancher-2.5.x-monitoring-and-alerting-with-ms-teams/)
 - Sep 08 - [Collecting logs from salt-managed nodes without ssh access](https://wyssmann.com/blog/2021/09/collecting-logs-from-salt-managed-nodes-without-ssh-access/)
 - Aug 17 - [Your first Kubernetes deployment](https://wyssmann.com/blog/2021/08/your-first-kubernetes-deployment/)
-- Aug 15 - [Manually create certificates and certificate signing request](https://wyssmann.com/blog/2021/08/manually-create-certificates-and-certificate-signing-request/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
