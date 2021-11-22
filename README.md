@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Nov 21 - [Docker images for debugging network issues in K8s](https://wyssmann.com/blog/2021/11/docker-images-for-debugging-network-issues-in-k8s/)
 - Nov 10 - [Deploy RHACS with Rancher fleet](https://wyssmann.com/blog/2021/11/deploy-rhacs-with-rancher-fleet/)
 - Oct 29 - [Fleet, the GitOps tool embedded in Rancher](https://wyssmann.com/blog/2021/10/fleet-the-gitops-tool-embedded-in-rancher/)
 - Oct 22 - [Kubernetes node is unavailable due to permanently crashing rancher-agent pod](https://wyssmann.com/blog/2021/10/kubernetes-node-is-unavailable-due-to-permanently-crashing-rancher-agent-pod/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Sep 19 - [Use Archlinux as your pentest distribution](https://wyssmann.com/blog/2021/09/use-archlinux-as-your-pentest-distribution/)
 - Sep 09 - [How to add encoded key- and truststore to K8s secret](https://wyssmann.com/blog/2021/09/how-to-add-encoded-key-and-truststore-to-k8s-secret/)
 - Sep 09 - [Keystore and Truststore in Java](https://wyssmann.com/blog/2021/09/keystore-and-truststore-in-java/)
-- Sep 09 - [Rancher 2.5.x v2 logging using splunk](https://wyssmann.com/blog/2021/09/rancher-2.5.x-v2-logging-using-splunk/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
