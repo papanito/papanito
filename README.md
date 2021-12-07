@@ -9,7 +9,7 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 <!-- feed start -->
 - Dec 07 - [Unit Testing and Code coverage in Java](https://wyssmann.com/blog/2021/12/unit-testing-and-code-coverage-in-java/)
 - Dec 06 - [Code coverage](https://wyssmann.com/blog/2021/12/code-coverage/)
-- Dec 05 - [Zellij, a window manager](https://wyssmann.com/blog/2021/12/zellij-a-window-manager/)
+- Dec 05 - [Zellij, an alternative to screen and tmux](https://wyssmann.com/blog/2021/12/zellij-an-alternative-to-screen-and-tmux/)
 - Nov 21 - [Docker images for debugging network issues in K8s](https://wyssmann.com/blog/2021/11/docker-images-for-debugging-network-issues-in-k8s/)
 - Nov 10 - [Deploy RHACS with Rancher fleet](https://wyssmann.com/blog/2021/11/deploy-rhacs-with-rancher-fleet/)
 - Oct 29 - [Fleet, the GitOps tool embedded in Rancher](https://wyssmann.com/blog/2021/10/fleet-the-gitops-tool-embedded-in-rancher/)
