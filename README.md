@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Dec 13 - [Unit tests with Python](https://wyssmann.com/blog/2021/12/unit-tests-with-python/)
 - Dec 07 - [Unit Testing and Code coverage in Java](https://wyssmann.com/blog/2021/12/unit-testing-and-code-coverage-in-java/)
 - Dec 06 - [Code coverage](https://wyssmann.com/blog/2021/12/code-coverage/)
 - Dec 05 - [Zellij, an alternative to screen and tmux](https://wyssmann.com/blog/2021/12/zellij-an-alternative-to-screen-and-tmux/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Oct 22 - [Kubernetes node is unavailable due to permanently crashing rancher-agent pod](https://wyssmann.com/blog/2021/10/kubernetes-node-is-unavailable-due-to-permanently-crashing-rancher-agent-pod/)
 - Oct 20 - [Tux-Tage 2021](https://wyssmann.com/blog/2021/10/tux-tage-2021/)
 - Sep 28 - [Hosttech GmbH, a swiss-based datacenter and cloud provider](https://wyssmann.com/blog/2021/09/hosttech-gmbh-a-swiss-based-datacenter-and-cloud-provider/)
-- Sep 26 - [Network simulation with GNS3 and CML](https://wyssmann.com/blog/2021/09/network-simulation-with-gns3-and-cml/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
