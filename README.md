@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Feb 09 - [Using a proxy server with groovy script in Jenkins](https://wyssmann.com/blog/2022/02/using-a-proxy-server-with-groovy-script-in-jenkins/)
 - Feb 02 - [Testing webhooks with webhooks.site in an air-gapped environment](https://wyssmann.com/blog/2022/02/testing-webhooks-with-webhooks.site-in-an-air-gapped-environment/)
 - Feb 01 - [New ansible role papanito.backup](https://wyssmann.com/blog/2022/02/new-ansible-role-papanito.backup/)
 - Dec 13 - [Unit tests with Python](https://wyssmann.com/blog/2021/12/unit-tests-with-python/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Nov 21 - [Docker images for debugging network issues in K8s](https://wyssmann.com/blog/2021/11/docker-images-for-debugging-network-issues-in-k8s/)
 - Nov 10 - [Deploy RHACS with Rancher fleet](https://wyssmann.com/blog/2021/11/deploy-rhacs-with-rancher-fleet/)
 - Oct 29 - [Fleet, the GitOps tool embedded in Rancher](https://wyssmann.com/blog/2021/10/fleet-the-gitops-tool-embedded-in-rancher/)
-- Oct 22 - [Kubernetes node is unavailable due to permanently crashing rancher-agent pod](https://wyssmann.com/blog/2021/10/kubernetes-node-is-unavailable-due-to-permanently-crashing-rancher-agent-pod/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
