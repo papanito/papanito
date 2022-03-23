@@ -8,7 +8,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 
 <!-- feed start -->
 - Mar 01 - [How to install WSL on Windows 2019 server behind a corporate proxy](https://wyssmann.com/blog/2022/03/how-to-install-wsl-on-windows-2019-server-behind-a-corporate-proxy/)
-- Feb 25 - [Flacky service connectivity on k8s production cluster while using fleet](https://wyssmann.com/blog/2022/02/flacky-service-connectivity-on-k8s-production-cluster-while-using-fleet/)
 - Feb 15 - [I did it again or how I messed up a kubernetes upgrade of the Rancher downstream cluster](https://wyssmann.com/blog/2022/02/i-did-it-again-or-how-i-messed-up-a-kubernetes-upgrade-of-the-rancher-downstream-cluster/)
 - Feb 10 - [How I messed up a kubernetes upgrade of the Rancher local cluster](https://wyssmann.com/blog/2022/02/how-i-messed-up-a-kubernetes-upgrade-of-the-rancher-local-cluster/)
 - Feb 09 - [Using a proxy server with groovy script in Jenkins](https://wyssmann.com/blog/2022/02/using-a-proxy-server-with-groovy-script-in-jenkins/)
@@ -17,6 +16,7 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Dec 13 - [Unit tests with Python](https://wyssmann.com/blog/2021/12/unit-tests-with-python/)
 - Dec 07 - [Unit Testing and Code coverage in Java](https://wyssmann.com/blog/2021/12/unit-testing-and-code-coverage-in-java/)
 - Dec 06 - [Code coverage](https://wyssmann.com/blog/2021/12/code-coverage/)
+- Dec 05 - [Zellij, an alternative to screen and tmux](https://wyssmann.com/blog/2021/12/zellij-an-alternative-to-screen-and-tmux/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
