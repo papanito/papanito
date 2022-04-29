@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Apr 27 - [Pet - A Command Line Snippet Manager](https://wyssmann.com/blog/2022/04/pet-a-command-line-snippet-manager/)
 - Apr 21 - [Infrastructure as Code (IaC) and Terraform](https://wyssmann.com/blog/2022/04/infrastructure-as-code-iac-and-terraform/)
 - Mar 01 - [How to install WSL on Windows 2019 server behind a corporate proxy](https://wyssmann.com/blog/2022/03/how-to-install-wsl-on-windows-2019-server-behind-a-corporate-proxy/)
 - Feb 25 - [Flacky service connectivity on k8s production cluster while using fleet](https://wyssmann.com/blog/2022/02/flacky-service-connectivity-on-k8s-production-cluster-while-using-fleet/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Feb 02 - [Testing webhooks with webhooks.site in an air-gapped environment](https://wyssmann.com/blog/2022/02/testing-webhooks-with-webhooks.site-in-an-air-gapped-environment/)
 - Feb 01 - [New ansible role papanito.backup](https://wyssmann.com/blog/2022/02/new-ansible-role-papanito.backup/)
 - Dec 13 - [Unit tests with Python](https://wyssmann.com/blog/2021/12/unit-tests-with-python/)
-- Dec 07 - [Unit Testing and Code coverage in Java](https://wyssmann.com/blog/2021/12/unit-testing-and-code-coverage-in-java/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
