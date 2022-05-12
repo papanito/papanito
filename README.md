@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- May 12 - [Import existing resources to Terraform](https://wyssmann.com/blog/2022/05/import-existing-resources-to-terraform/)
 - May 06 - [Terraform and Hetzner Cloud](https://wyssmann.com/blog/2022/05/terraform-and-hetzner-cloud/)
 - Apr 27 - [Pet - A Command Line Snippet Manager](https://wyssmann.com/blog/2022/04/pet-a-command-line-snippet-manager/)
 - Apr 21 - [Infrastructure as Code (IaC) and Terraform](https://wyssmann.com/blog/2022/04/infrastructure-as-code-iac-and-terraform/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Feb 10 - [How I messed up a kubernetes upgrade of the Rancher local cluster](https://wyssmann.com/blog/2022/02/how-i-messed-up-a-kubernetes-upgrade-of-the-rancher-local-cluster/)
 - Feb 09 - [Using a proxy server with groovy script in Jenkins](https://wyssmann.com/blog/2022/02/using-a-proxy-server-with-groovy-script-in-jenkins/)
 - Feb 02 - [Testing webhooks with webhooks.site in an air-gapped environment](https://wyssmann.com/blog/2022/02/testing-webhooks-with-webhooks.site-in-an-air-gapped-environment/)
-- Feb 01 - [New ansible role papanito.backup](https://wyssmann.com/blog/2022/02/new-ansible-role-papanito.backup/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
