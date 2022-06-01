@@ -7,6 +7,8 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- May 31 - [Introduction to Prometheus](https://wyssmann.com/blog/2022/05/introduction-to-prometheus/)
+- May 30 - [Introduction to Grafana](https://wyssmann.com/blog/2022/05/introduction-to-grafana/)
 - May 30 - [Introduction to Grafana Cloud](https://wyssmann.com/blog/2022/05/introduction-to-grafana-cloud/)
 - May 18 - [navi - an interactive cheatsheet tool for the command-line](https://wyssmann.com/blog/2022/05/navi-an-interactive-cheatsheet-tool-for-the-command-line/)
 - May 17 - [Cheat.sh - unified access to community driven cheat sheets](https://wyssmann.com/blog/2022/05/cheat.sh-unified-access-to-community-driven-cheat-sheets/)
@@ -15,8 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Apr 27 - [Pet - A Command Line Snippet Manager](https://wyssmann.com/blog/2022/04/pet-a-command-line-snippet-manager/)
 - Apr 21 - [Infrastructure as Code (IaC) and Terraform](https://wyssmann.com/blog/2022/04/infrastructure-as-code-iac-and-terraform/)
 - Mar 01 - [How to install WSL on Windows 2019 server behind a corporate proxy](https://wyssmann.com/blog/2022/03/how-to-install-wsl-on-windows-2019-server-behind-a-corporate-proxy/)
-- Feb 25 - [Flacky service connectivity on k8s production cluster while using fleet](https://wyssmann.com/blog/2022/02/flacky-service-connectivity-on-k8s-production-cluster-while-using-fleet/)
-- Feb 15 - [I did it again or how I messed up a kubernetes upgrade of the Rancher downstream cluster](https://wyssmann.com/blog/2022/02/i-did-it-again-or-how-i-messed-up-a-kubernetes-upgrade-of-the-rancher-downstream-cluster/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
