@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- May 30 - [Introduction to Grafana Cloud](https://wyssmann.com/blog/2022/05/introduction-to-grafana-cloud/)
 - May 18 - [navi - an interactive cheatsheet tool for the command-line](https://wyssmann.com/blog/2022/05/navi-an-interactive-cheatsheet-tool-for-the-command-line/)
 - May 17 - [Cheat.sh - unified access to community driven cheat sheets](https://wyssmann.com/blog/2022/05/cheat.sh-unified-access-to-community-driven-cheat-sheets/)
 - May 12 - [Import existing resources to Terraform](https://wyssmann.com/blog/2022/05/import-existing-resources-to-terraform/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Mar 01 - [How to install WSL on Windows 2019 server behind a corporate proxy](https://wyssmann.com/blog/2022/03/how-to-install-wsl-on-windows-2019-server-behind-a-corporate-proxy/)
 - Feb 25 - [Flacky service connectivity on k8s production cluster while using fleet](https://wyssmann.com/blog/2022/02/flacky-service-connectivity-on-k8s-production-cluster-while-using-fleet/)
 - Feb 15 - [I did it again or how I messed up a kubernetes upgrade of the Rancher downstream cluster](https://wyssmann.com/blog/2022/02/i-did-it-again-or-how-i-messed-up-a-kubernetes-upgrade-of-the-rancher-downstream-cluster/)
-- Feb 10 - [How I messed up a kubernetes upgrade of the Rancher local cluster](https://wyssmann.com/blog/2022/02/how-i-messed-up-a-kubernetes-upgrade-of-the-rancher-local-cluster/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
