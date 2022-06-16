@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Adrian
 
-I am a passionate DevOps Engineer from Switzerland, father of five and husband of the most beautiful and most amazing women in the world.
+I am a passionate DevOps Engineer from Switzerland, father of five and husband of the most beautiful and most amazing woman in the world.
 
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
