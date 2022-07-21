@@ -8,6 +8,7 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 
 <!-- feed start -->
 - Jul 18 - [Manage Terraform with Atlantis in a restricted environment](https://wyssmann.com/blog/2022/07/manage-terraform-with-atlantis-in-a-restricted-environment/)
+- Jul 01 - [Migrate kubernetes volumes](https://wyssmann.com/blog/2022/07/migrate-kubernetes-volumes/)
 - Jun 24 - [Import a Rancher apps and Kubernetes manifest into Terraform](https://wyssmann.com/blog/2022/06/import-a-rancher-apps-and-kubernetes-manifest-into-terraform/)
 - May 31 - [Introduction to Prometheus](https://wyssmann.com/blog/2022/05/introduction-to-prometheus/)
 - May 30 - [Introduction to Grafana](https://wyssmann.com/blog/2022/05/introduction-to-grafana/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - May 17 - [Cheat.sh - unified access to community driven cheat sheets](https://wyssmann.com/blog/2022/05/cheat.sh-unified-access-to-community-driven-cheat-sheets/)
 - May 12 - [Import existing resources to Terraform](https://wyssmann.com/blog/2022/05/import-existing-resources-to-terraform/)
 - May 06 - [Terraform and Hetzner Cloud](https://wyssmann.com/blog/2022/05/terraform-and-hetzner-cloud/)
-- Apr 27 - [Pet - A Command Line Snippet Manager](https://wyssmann.com/blog/2022/04/pet-a-command-line-snippet-manager/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
