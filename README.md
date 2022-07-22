@@ -7,7 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
-- Jul 22 - [Importing resources using Atlantis](https://wyssmann.com/blog/2022/07/importing-resources-using-atlantis/)
+- Jul 22 - [Importing terraform resources using Atlantis](https://wyssmann.com/blog/2022/07/importing-terraform-resources-using-atlantis/)
 - Jul 18 - [Manage Terraform with Atlantis in a restricted environment](https://wyssmann.com/blog/2022/07/manage-terraform-with-atlantis-in-a-restricted-environment/)
 - Jul 01 - [Migrate kubernetes volumes](https://wyssmann.com/blog/2022/07/migrate-kubernetes-volumes/)
 - Jun 24 - [Import a Rancher apps and Kubernetes manifest into Terraform](https://wyssmann.com/blog/2022/06/import-a-rancher-apps-and-kubernetes-manifest-into-terraform/)
