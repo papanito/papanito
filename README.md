@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Aug 11 - [Chezmoi - a very cool tool to manage your dotfiles](https://wyssmann.com/blog/2022/08/chezmoi-a-very-cool-tool-to-manage-your-dotfiles/)
 - Jul 22 - [Importing terraform resources using Atlantis](https://wyssmann.com/blog/2022/07/importing-terraform-resources-using-atlantis/)
 - Jul 18 - [Manage Terraform with Atlantis in a restricted environment](https://wyssmann.com/blog/2022/07/manage-terraform-with-atlantis-in-a-restricted-environment/)
 - Jul 01 - [Migrate kubernetes volumes](https://wyssmann.com/blog/2022/07/migrate-kubernetes-volumes/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - May 30 - [Introduction to Grafana Cloud](https://wyssmann.com/blog/2022/05/introduction-to-grafana-cloud/)
 - May 18 - [navi - an interactive cheatsheet tool for the command-line](https://wyssmann.com/blog/2022/05/navi-an-interactive-cheatsheet-tool-for-the-command-line/)
 - May 17 - [Cheat.sh - unified access to community driven cheat sheets](https://wyssmann.com/blog/2022/05/cheat.sh-unified-access-to-community-driven-cheat-sheets/)
-- May 12 - [Import existing resources to Terraform](https://wyssmann.com/blog/2022/05/import-existing-resources-to-terraform/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
