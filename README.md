@@ -7,16 +7,16 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Oct 07 - [What is Open Policy Agent (OPA) and OPA Gatekeeper](https://wyssmann.com/blog/2022/10/what-is-open-policy-agent-opa-and-opa-gatekeeper/)
+- Sep 18 - [Helix, a modern editor for linux](https://wyssmann.com/blog/2022/09/helix-a-modern-editor-for-linux/)
+- Sep 12 - [What is ZSH and why I prefer it over bash](https://wyssmann.com/blog/2022/09/what-is-zsh-and-why-i-prefer-it-over-bash/)
+- Sep 05 - [Gitlab and Terraform together](https://wyssmann.com/blog/2022/09/gitlab-and-terraform-together/)
 - Aug 11 - [Chezmoi - a very cool tool to manage your dotfiles](https://wyssmann.com/blog/2022/08/chezmoi-a-very-cool-tool-to-manage-your-dotfiles/)
 - Jul 22 - [Importing terraform resources using Atlantis](https://wyssmann.com/blog/2022/07/importing-terraform-resources-using-atlantis/)
 - Jul 18 - [Manage Terraform with Atlantis in a restricted environment](https://wyssmann.com/blog/2022/07/manage-terraform-with-atlantis-in-a-restricted-environment/)
 - Jul 01 - [Migrate kubernetes volumes](https://wyssmann.com/blog/2022/07/migrate-kubernetes-volumes/)
 - Jun 24 - [Import a Rancher apps and Kubernetes manifest into Terraform](https://wyssmann.com/blog/2022/06/import-a-rancher-apps-and-kubernetes-manifest-into-terraform/)
 - May 31 - [Introduction to Prometheus](https://wyssmann.com/blog/2022/05/introduction-to-prometheus/)
-- May 30 - [Introduction to Grafana](https://wyssmann.com/blog/2022/05/introduction-to-grafana/)
-- May 30 - [Introduction to Grafana Cloud](https://wyssmann.com/blog/2022/05/introduction-to-grafana-cloud/)
-- May 18 - [navi - an interactive cheatsheet tool for the command-line](https://wyssmann.com/blog/2022/05/navi-an-interactive-cheatsheet-tool-for-the-command-line/)
-- May 17 - [Cheat.sh - unified access to community driven cheat sheets](https://wyssmann.com/blog/2022/05/cheat.sh-unified-access-to-community-driven-cheat-sheets/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
