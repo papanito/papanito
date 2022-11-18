@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Nov 02 - [Manage Rancher Projects in Terraform](https://wyssmann.com/blog/2022/11/manage-rancher-projects-in-terraform/)
 - Oct 19 - [Filter out elements from a json object in in Terraform](https://wyssmann.com/blog/2022/10/filter-out-elements-from-a-json-object-in-in-terraform/)
 - Oct 07 - [What is Open Policy Agent (OPA) and OPA Gatekeeper](https://wyssmann.com/blog/2022/10/what-is-open-policy-agent-opa-and-opa-gatekeeper/)
 - Sep 18 - [Helix, a modern editor for linux](https://wyssmann.com/blog/2022/09/helix-a-modern-editor-for-linux/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Jul 22 - [Importing terraform resources using Atlantis](https://wyssmann.com/blog/2022/07/importing-terraform-resources-using-atlantis/)
 - Jul 18 - [Manage Terraform with Atlantis in a restricted environment](https://wyssmann.com/blog/2022/07/manage-terraform-with-atlantis-in-a-restricted-environment/)
 - Jul 01 - [Migrate kubernetes volumes](https://wyssmann.com/blog/2022/07/migrate-kubernetes-volumes/)
-- Jun 24 - [Import a Rancher apps and Kubernetes manifest into Terraform](https://wyssmann.com/blog/2022/06/import-a-rancher-apps-and-kubernetes-manifest-into-terraform/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
