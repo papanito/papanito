@@ -7,7 +7,9 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Nov 11 - [Manage AlertmanagerConfigs in Rancher Projects using Terraform](https://wyssmann.com/blog/2022/11/manage-alertmanagerconfigs-in-rancher-projects-using-terraform/)
 - Nov 02 - [Manage Rancher Projects in Terraform](https://wyssmann.com/blog/2022/11/manage-rancher-projects-in-terraform/)
+- Oct 29 - [OPA Gatekeeper Metrics and Grafana Dashboard](https://wyssmann.com/blog/2022/10/opa-gatekeeper-metrics-and-grafana-dashboard/)
 - Oct 19 - [Filter out elements from a json object in in Terraform](https://wyssmann.com/blog/2022/10/filter-out-elements-from-a-json-object-in-in-terraform/)
 - Oct 07 - [What is Open Policy Agent (OPA) and OPA Gatekeeper](https://wyssmann.com/blog/2022/10/what-is-open-policy-agent-opa-and-opa-gatekeeper/)
 - Sep 18 - [Helix, a modern editor for linux](https://wyssmann.com/blog/2022/09/helix-a-modern-editor-for-linux/)
@@ -15,8 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Sep 05 - [Gitlab and Terraform together](https://wyssmann.com/blog/2022/09/gitlab-and-terraform-together/)
 - Aug 11 - [Chezmoi - a very cool tool to manage your dotfiles](https://wyssmann.com/blog/2022/08/chezmoi-a-very-cool-tool-to-manage-your-dotfiles/)
 - Jul 22 - [Importing terraform resources using Atlantis](https://wyssmann.com/blog/2022/07/importing-terraform-resources-using-atlantis/)
-- Jul 18 - [Manage Terraform with Atlantis in a restricted environment](https://wyssmann.com/blog/2022/07/manage-terraform-with-atlantis-in-a-restricted-environment/)
-- Jul 01 - [Migrate kubernetes volumes](https://wyssmann.com/blog/2022/07/migrate-kubernetes-volumes/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
