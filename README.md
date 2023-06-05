@@ -8,6 +8,7 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 
 <!-- feed start -->
 - Apr 15 - [Reusable Github Workflows](https://wyssmann.com/blog/2023/04/reusable-github-workflows/)
+- Mar 13 - [Software Package Management for Windows with Scoop](https://wyssmann.com/blog/2023/03/software-package-management-for-windows-with-scoop/)
 - Nov 11 - [Manage AlertmanagerConfigs in Rancher Projects using Terraform](https://wyssmann.com/blog/2022/11/manage-alertmanagerconfigs-in-rancher-projects-using-terraform/)
 - Nov 02 - [Manage Rancher Projects in Terraform](https://wyssmann.com/blog/2022/11/manage-rancher-projects-in-terraform/)
 - Oct 29 - [OPA Gatekeeper Metrics and Grafana Dashboard](https://wyssmann.com/blog/2022/10/opa-gatekeeper-metrics-and-grafana-dashboard/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Sep 18 - [Helix, a modern editor for linux](https://wyssmann.com/blog/2022/09/helix-a-modern-editor-for-linux/)
 - Sep 12 - [What is ZSH and why I prefer it over bash](https://wyssmann.com/blog/2022/09/what-is-zsh-and-why-i-prefer-it-over-bash/)
 - Sep 05 - [Gitlab and Terraform together](https://wyssmann.com/blog/2022/09/gitlab-and-terraform-together/)
-- Aug 11 - [Chezmoi - a very cool tool to manage your dotfiles](https://wyssmann.com/blog/2022/08/chezmoi-a-very-cool-tool-to-manage-your-dotfiles/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
