@@ -37,7 +37,6 @@ See [Ansible Project](https://github.com/users/papanito/projects/3) for work in 
 <a href="https://nixos.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" alt="nixos" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://sourceforge.net/projects/zsh/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/zsh.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://wiki.zshell.dev/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/93575852?s=200&v=4" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
