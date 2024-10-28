@@ -7,16 +7,16 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Oct 24 - [Ship Rancher API Audit Logs from AKS clusters](https://wyssmann.com/blog/2024/10/ship-rancher-api-audit-logs-from-aks-clusters/)
+- Sep 18 - [External Secrets Operator and Azure Identity Workload](https://wyssmann.com/blog/2024/09/external-secrets-operator-and-azure-identity-workload/)
+- Sep 01 - [Azure Managed Identity](https://wyssmann.com/blog/2024/09/azure-managed-identity/)
+- Jan 31 - [Terraform complains with "EvalSymlinks: too many links" when on a Windows roaming profile](https://wyssmann.com/blog/2024/01/terraform-complains-with-evalsymlinks-too-many-links-when-on-a-windows-roaming-profile/)
+- Oct 24 - [Terraform secrets with SOPS and Azure Keyvault](https://wyssmann.com/blog/2023/10/terraform-secrets-with-sops-and-azure-keyvault/)
+- Oct 19 - [Improvement of Atlantis workflow with azure by setting no_proxy automatically](https://wyssmann.com/blog/2023/10/improvement-of-atlantis-workflow-with-azure-by-setting-no_proxy-automatically/)
+- Oct 16 - [Git-hooks - Automatically check for secrets in your code](https://wyssmann.com/blog/2023/10/git-hooks-automatically-check-for-secrets-in-your-code/)
+- Sep 27 - [Git-hooks - a practical example with tf docs](https://wyssmann.com/blog/2023/09/git-hooks-a-practical-example-with-tf-docs/)
+- May 15 - [Hetzner Cloud referral (again)](https://wyssmann.com/blog/2023/05/hetzner-cloud-referral-again/)
 - Apr 15 - [Reusable Github Workflows](https://wyssmann.com/blog/2023/04/reusable-github-workflows/)
-- Mar 13 - [Software Package Management for Windows with Scoop](https://wyssmann.com/blog/2023/03/software-package-management-for-windows-with-scoop/)
-- Dec 05 - [OPA Gatekeeper and issue while doing a cluster restore](https://wyssmann.com/blog/2022/12/opa-gatekeeper-and-issue-while-doing-a-cluster-restore/)
-- Nov 11 - [Manage AlertmanagerConfigs in Rancher Projects using Terraform](https://wyssmann.com/blog/2022/11/manage-alertmanagerconfigs-in-rancher-projects-using-terraform/)
-- Nov 02 - [Manage Rancher Projects in Terraform](https://wyssmann.com/blog/2022/11/manage-rancher-projects-in-terraform/)
-- Oct 29 - [OPA Gatekeeper Metrics and Grafana Dashboard](https://wyssmann.com/blog/2022/10/opa-gatekeeper-metrics-and-grafana-dashboard/)
-- Oct 19 - [Filter out elements from a json object in in Terraform](https://wyssmann.com/blog/2022/10/filter-out-elements-from-a-json-object-in-in-terraform/)
-- Oct 07 - [What is Open Policy Agent (OPA) and OPA Gatekeeper](https://wyssmann.com/blog/2022/10/what-is-open-policy-agent-opa-and-opa-gatekeeper/)
-- Sep 18 - [Helix, a modern editor for linux](https://wyssmann.com/blog/2022/09/helix-a-modern-editor-for-linux/)
-- Sep 12 - [What is ZSH and why I prefer it over bash](https://wyssmann.com/blog/2022/09/what-is-zsh-and-why-i-prefer-it-over-bash/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
