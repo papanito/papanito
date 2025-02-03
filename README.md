@@ -7,16 +7,16 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Jan 23 - [Copy of Failed to get the data key required to decrypt the SOPS file: The provided grant has expired due to it being revoked](https://wyssmann.com/blog/2025/01/copy-of-failed-to-get-the-data-key-required-to-decrypt-the-sops-file-the-provided-grant-has-expired-due-to-it-being-revoked/)
+- Jan 20 - [Velero using Azure Managed Identity](https://wyssmann.com/blog/2025/01/velero-using-azure-managed-identity/)
+- Jan 06 - [DevOps vs. Platform Engineering](https://wyssmann.com/blog/2025/01/devops-vs.-platform-engineering/)
+- Jan 01 - [How to organize application and application sets in ArgoCD](https://wyssmann.com/blog/2025/01/how-to-organize-application-and-application-sets-in-argocd/)
 - Oct 24 - [Ship Rancher API Audit Logs from AKS clusters](https://wyssmann.com/blog/2024/10/ship-rancher-api-audit-logs-from-aks-clusters/)
 - Sep 18 - [External Secrets Operator and Azure Identity Workload](https://wyssmann.com/blog/2024/09/external-secrets-operator-and-azure-identity-workload/)
 - Sep 01 - [Azure Managed Identity](https://wyssmann.com/blog/2024/09/azure-managed-identity/)
 - Jan 31 - [Terraform complains with "EvalSymlinks: too many links" when on a Windows roaming profile](https://wyssmann.com/blog/2024/01/terraform-complains-with-evalsymlinks-too-many-links-when-on-a-windows-roaming-profile/)
 - Oct 24 - [Terraform secrets with SOPS and Azure Keyvault](https://wyssmann.com/blog/2023/10/terraform-secrets-with-sops-and-azure-keyvault/)
 - Oct 19 - [Improvement of Atlantis workflow with azure by setting no_proxy automatically](https://wyssmann.com/blog/2023/10/improvement-of-atlantis-workflow-with-azure-by-setting-no_proxy-automatically/)
-- Oct 16 - [Git-hooks - Automatically check for secrets in your code](https://wyssmann.com/blog/2023/10/git-hooks-automatically-check-for-secrets-in-your-code/)
-- Sep 27 - [Git-hooks - a practical example with tf docs](https://wyssmann.com/blog/2023/09/git-hooks-a-practical-example-with-tf-docs/)
-- May 15 - [Hetzner Cloud referral (again)](https://wyssmann.com/blog/2023/05/hetzner-cloud-referral-again/)
-- Apr 15 - [Reusable Github Workflows](https://wyssmann.com/blog/2023/04/reusable-github-workflows/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
