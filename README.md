@@ -7,6 +7,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 <!-- feed start -->
+- Feb 13 - [How to use separate environment configuration files ArgoCD](https://wyssmann.com/blog/2025/02/how-to-use-separate-environment-configuration-files-argocd/)
 - Jan 23 - [Copy of Failed to get the data key required to decrypt the SOPS file: The provided grant has expired due to it being revoked](https://wyssmann.com/blog/2025/01/copy-of-failed-to-get-the-data-key-required-to-decrypt-the-sops-file-the-provided-grant-has-expired-due-to-it-being-revoked/)
 - Jan 20 - [Velero using Azure Managed Identity](https://wyssmann.com/blog/2025/01/velero-using-azure-managed-identity/)
 - Jan 06 - [DevOps vs. Platform Engineering](https://wyssmann.com/blog/2025/01/devops-vs.-platform-engineering/)
@@ -16,7 +17,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 - Sep 01 - [Azure Managed Identity](https://wyssmann.com/blog/2024/09/azure-managed-identity/)
 - Jan 31 - [Terraform complains with "EvalSymlinks: too many links" when on a Windows roaming profile](https://wyssmann.com/blog/2024/01/terraform-complains-with-evalsymlinks-too-many-links-when-on-a-windows-roaming-profile/)
 - Oct 24 - [Terraform secrets with SOPS and Azure Keyvault](https://wyssmann.com/blog/2023/10/terraform-secrets-with-sops-and-azure-keyvault/)
-- Oct 19 - [Improvement of Atlantis workflow with azure by setting no_proxy automatically](https://wyssmann.com/blog/2023/10/improvement-of-atlantis-workflow-with-azure-by-setting-no_proxy-automatically/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
