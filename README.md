@@ -6,6 +6,7 @@ I am a passionate DevOps Engineer from Switzerland, father of five and husband o
 
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
+For recruiters my CV is available on request at <<https://papanito.gitlab.io/resume>
 <!-- feed start -->
 - Jun 17 - [Chezmoi externals behind a coorporate proxy](https://wyssmann.com/blog/2025/06/chezmoi-externals-behind-a-coorporate-proxy/)
 - Jun 01 - [NixOS my new linux distro](https://wyssmann.com/blog/2025/06/nixos-my-new-linux-distro/)
@@ -33,8 +34,8 @@ See [Ansible Project](https://github.com/users/papanito/projects/3) for work in 
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=papanito&show_icons=true&locale=en&layout=compact)
 
-<p align="left"> <a href="https://ansible.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> 
-<a href="https://nixos.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" alt="nixos" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://ansible.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
+<a href="https://nixos.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" alt="nixos" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://sourceforge.net/projects/zsh/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/zsh.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -55,4 +56,3 @@ See [Ansible Project](https://github.com/users/papanito/projects/3) for work in 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E840H5P)<br>
 [![Hetzner Referral Code](https://avatars.githubusercontent.com/u/30047064?s=280&v=4)](https://hetzner.cloud/?ref=2POcOxl1qcEk)<br>
-
