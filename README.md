@@ -8,6 +8,9 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 
 For recruiters my CV is available on request at <<https://papanito.gitlab.io/resume>
 <!-- feed start -->
+- Jan 13 - [User Bitwarden as ssh agent](https://wyssmann.com/blog/2026/01/user-bitwarden-as-ssh-agent/)
+- Jan 11 - [NixOS for all my system - part 2](https://wyssmann.com/blog/2026/01/nixos-for-all-my-system-part-2/)
+- Nov 15 - [NixOS for all my system](https://wyssmann.com/blog/2025/11/nixos-for-all-my-system/)
 - Jun 17 - [Chezmoi externals behind a coorporate proxy](https://wyssmann.com/blog/2025/06/chezmoi-externals-behind-a-coorporate-proxy/)
 - Jun 01 - [NixOS my new linux distro](https://wyssmann.com/blog/2025/06/nixos-my-new-linux-distro/)
 - Feb 13 - [How to use separate environment configuration files ArgoCD](https://wyssmann.com/blog/2025/02/how-to-use-separate-environment-configuration-files-argocd/)
@@ -15,9 +18,6 @@ For recruiters my CV is available on request at <<https://papanito.gitlab.io/res
 - Jan 20 - [Velero using Azure Managed Identity](https://wyssmann.com/blog/2025/01/velero-using-azure-managed-identity/)
 - Jan 06 - [DevOps vs. Platform Engineering](https://wyssmann.com/blog/2025/01/devops-vs.-platform-engineering/)
 - Jan 01 - [How to organize application and application sets in ArgoCD](https://wyssmann.com/blog/2025/01/how-to-organize-application-and-application-sets-in-argocd/)
-- Oct 24 - [Ship Rancher API Audit Logs from AKS clusters](https://wyssmann.com/blog/2024/10/ship-rancher-api-audit-logs-from-aks-clusters/)
-- Sep 18 - [External Secrets Operator and Azure Identity Workload](https://wyssmann.com/blog/2024/09/external-secrets-operator-and-azure-identity-workload/)
-- Sep 01 - [Azure Managed Identity](https://wyssmann.com/blog/2024/09/azure-managed-identity/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
