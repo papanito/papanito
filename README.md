@@ -8,6 +8,7 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 
 For recruiters my CV is available on request at <<https://papanito.gitlab.io/resume>
 <!-- feed start -->
+- Mar 19 - [Software Testing Section](https://wyssmann.com/blog/2026/03/software-testing-section/)
 - Mar 02 - [Use Bitwarden and direnv to inject env variables](https://wyssmann.com/blog/2026/03/use-bitwarden-and-direnv-to-inject-env-variables/)
 - Feb 15 - [Paperless workflow with paperless-ngx](https://wyssmann.com/blog/2026/02/paperless-workflow-with-paperless-ngx/)
 - Jan 13 - [User Bitwarden as ssh agent](https://wyssmann.com/blog/2026/01/user-bitwarden-as-ssh-agent/)
@@ -17,7 +18,6 @@ For recruiters my CV is available on request at <<https://papanito.gitlab.io/res
 - Jun 01 - [NixOS my new linux distro](https://wyssmann.com/blog/2025/06/nixos-my-new-linux-distro/)
 - Feb 13 - [How to use separate environment configuration files ArgoCD](https://wyssmann.com/blog/2025/02/how-to-use-separate-environment-configuration-files-argocd/)
 - Jan 23 - [Copy of Failed to get the data key required to decrypt the SOPS file: The provided grant has expired due to it being revoked](https://wyssmann.com/blog/2025/01/copy-of-failed-to-get-the-data-key-required-to-decrypt-the-sops-file-the-provided-grant-has-expired-due-to-it-being-revoked/)
-- Jan 20 - [Velero using Azure Managed Identity](https://wyssmann.com/blog/2025/01/velero-using-azure-managed-identity/)
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
