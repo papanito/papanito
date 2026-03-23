@@ -20,7 +20,13 @@ For recruiters my CV is available on request at <<https://papanito.gitlab.io/res
 - Jan 23 - [Copy of Failed to get the data key required to decrypt the SOPS file: The provided grant has expired due to it being revoked](https://wyssmann.com/blog/2025/01/copy-of-failed-to-get-the-data-key-required-to-decrypt-the-sops-file-the-provided-grant-has-expired-due-to-it-being-revoked/)
 <!-- feed end -->
 
+### Github Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
+
+### Gitlab Stats
+![GitLab Contributor Stats](https://contributors.gitlab.com/users/papanito/banner.svg)
+
+### Stackoverflow
 
 You may also find me at Stackoverflow:
 
@@ -28,7 +34,13 @@ You may also find me at Stackoverflow:
 
 ### Ansible Roles
 
+> Currently ansible is less on my focus, if you are interested to help maintain the roles, please let me know
+
 See [Ansible Project](https://github.com/users/papanito/projects/3) for work in progress and a list of roles. If you have any question, the discussion is enabled on these projects.
+
+### Terraform Modules
+
+Checkout my [terraform](https://gitlab.com/wyssmann/terraform) project on gitlab.
 
 ### Languages and Tools
 
