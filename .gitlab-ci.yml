@@ -6,6 +6,7 @@ update-readme:
   image: python:3.9-slim
   rules:
     # Runs on scheduled pipelines or manual triggers via the UI
+    - if: $CI_PIPELINE_SOURCE == "push"
     - if: $CI_PIPELINE_SOURCE == "schedule"
     - if: $CI_PIPELINE_SOURCE == "web"
   before_script:
