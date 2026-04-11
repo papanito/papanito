@@ -1,0 +1,49 @@
+stages:
+  - update
+
+update-readme:
+  stage: update
+  image: python:3.9-slim
+  rules:
+    # Runs on scheduled pipelines or manual triggers via the UI
+    - if: $CI_PIPELINE_SOURCE == "schedule"
+    - if: $CI_PIPELINE_SOURCE == "web"
+  before_script:
+    - pip install feedparser
+    - apt-get update && apt-get install -y git
+  script:
+    # 1. Run a python snippet to fetch feed and update README
+    - |
+      python3 -c "
+      import feedparser
+      import re
+
+      feed_url = 'https://wyssmann.com/blog/index.xml'
+      file_path = 'README.md'
+      feed = feedparser.parse(feed_url)
+
+      entries = [f'- [{e.title}]({e.link})' for e in feed.entries[:10]]
+      content = '\n'.join(entries)
+
+      with open(file_path, 'r') as f:
+          readme = f.read()
+
+      # Replaces content between and tags
+      new_readme = re.sub(r'().*()', 
+                          f'\\1\n{content}\n\\2', 
+                          readme, flags=re.DOTALL)
+
+      with open(file_path, 'w') as f:
+          f.write(new_readme)
+      "
+    # 2. Push the changes back to the repo
+    - git config --global user.name "${GITLAB_USER_NAME}"
+    - git config --global user.email "${GITLAB_USER_EMAIL}"
+    - git add README.md
+    - |
+      if git commit -m "docs: update feed [skip ci]"; then
+        # Use a Project Access Token for authentication
+        git push "https://project_${CI_PROJECT_ID}_bot:${GL_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git" HEAD:${CI_DEFAULT_BRANCH}
+      else
+        echo "No changes to commit"
+      fi
