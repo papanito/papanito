@@ -22,6 +22,8 @@ update-readme:
       feed_url = 'https://wyssmann.com/blog/index.xml'
       file_path = 'README.md'
       feed = feedparser.parse(feed_url)
+      start_tag = "<!-- feed start -->"
+      end_tag = "<!-- feed end -->"
 
       if not feed.entries:
           print('No entries found. Check RSS URL.')
@@ -36,8 +38,8 @@ update-readme:
       # Define the surgical pattern
       # \1 captures the start tag, \2 captures the end tag
       # .*? matches the old content inside without touching outside text
-      pattern = r'(<!-- feed start -->).*?(<!-- feed end -->)'
-      replacement = f'\\1\n{new_content}\n\\2'
+      pattern = r'({start_tag}).*?({end_tag})'
+      replacement = f'\\1{start_tag}{new_content}{end_tag}\\2'
 
       # Perform replacement (re.DOTALL allows matching across multiple lines)
       updated_readme = re.sub(pattern, replacement, original_readme, flags=re.DOTALL)
