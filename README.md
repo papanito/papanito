@@ -17,8 +17,8 @@ For recruiters my CV is available on request at <https://papanito.gitlab.io/resu
 - 2025-06-17 [Chezmoi externals behind a coorporate proxy](https://wyssmann.com/blog/2025/06/chezmoi-externals-behind-a-coorporate-proxy/)
 - 2025-06-01 [NixOS my new linux distro](https://wyssmann.com/blog/2025/06/nixos-my-new-linux-distro/)
 - 2025-02-13 [How to use separate environment configuration files ArgoCD](https://wyssmann.com/blog/2025/02/how-to-use-separate-environment-configuration-files-argocd/)
-- 2025-01-23 [Copy of Failed to get the data key required to decrypt the SOPS file: The provided grant has expired due to it being revoked](https://wyssmann.com/blog/2025/01/copy-of-failed-to-get-the-data-key-required-to-decrypt-the-sops-file-the-provided-grant-has-expired-due-to-it-being-revoked/)
-<!-- feed end -->
+- 2025-01-23 [Copy of Failed to get the data key required to decrypt the SOPS file: The provided grant has expired due to it being revoked](https://wyssmann.com/blog/2025/01/copy-of-failed-to-get-the-data-key-required-to-decrypt-the-sops-file-the-provided-grant-has-expired-due-to-it-being-revoked/)<!-- feed end -->
+
 
 ### Github Stats
 
