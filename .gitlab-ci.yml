@@ -23,19 +23,35 @@ update-readme:
       file_path = 'README.md'
       feed = feedparser.parse(feed_url)
 
+      if not feed.entries:
+          print('No entries found. Check RSS URL.')
+          sys.exit(0)
+
       entries = [f'- [{e.title}]({e.link})' for e in feed.entries[:10]]
-      content = '\n'.join(entries)
+      new_content = '\n'.join(entries)
 
       with open(file_path, 'r') as f:
-          readme = f.read()
+          original_readme = f.read()
 
-      # Replaces content between and tags
-      new_readme = re.sub(r'().*()', 
-                          f'\\1\n{content}\n\\2', 
-                          readme, flags=re.DOTALL)
+      # Define the surgical pattern
+      # \1 captures the start tag, \2 captures the end tag
+      # .*? matches the old content inside without touching outside text
+      pattern = r'(<!-- feed start -->).*?(<!-- feed end -->)'
+      replacement = f'\\1\n{new_content}\n\\2'
 
-      with open(file_path, 'w') as f:
-          f.write(new_readme)
+      # Perform replacement (re.DOTALL allows matching across multiple lines)
+      updated_readme = re.sub(pattern, replacement, original_readme, flags=re.DOTALL)
+
+      # Warn if no markers were found
+      if updated_readme == original_readme and '<!-- feed start -->' not in original_readme:
+          print('Warning: markers not found in README.md — nothing was replaced.')
+          sys.exit(1)
+
+      # 5. Save the result
+      with open('README.md', 'w') as f:
+          f.write(updated_readme)
+
+      print('README.md updated successfully.')
       "
     # Push the changes back to the repo
     - git config --global user.email "ci@wyssmann.com"
