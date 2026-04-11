@@ -46,7 +46,7 @@ update-readme:
       # \1 captures the start tag, \2 captures the end tag
       # .*? matches the old content inside without touching outside text
       pattern = re.escape(start_tag) + r'.*?' + re.escape(end_tag)
-      replacement = f'\\1{start_tag}\n{new_content}{end_tag}\n\\2'
+      replacement = f'{start_tag}\n{new_content}{end_tag}\n'
 
       # Perform replacement (re.DOTALL allows matching across multiple lines)
       updated_readme = re.sub(pattern, replacement, original_readme, flags=re.DOTALL)
