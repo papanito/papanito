@@ -37,9 +37,9 @@ update-readme:
       with open(file_path, 'w') as f:
           f.write(new_readme)
       "
-    # 2. Push the changes back to the repo
-    - git config --global user.name "${GITLAB_USER_NAME}"
-    - git config --global user.email "${GITLAB_USER_EMAIL}"
+    # Push the changes back to the repo
+    - git config --global user.email "ci@wyssmann.com"
+    - git config --global user.name "CI Bot"
     - git add README.md
     - |
       if git commit -m "docs: update feed [skip ci]"; then
