@@ -20,7 +20,6 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 <!-- feed end -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=papanito&)
 
 You may also find me at Stackoverflow:
 
@@ -34,9 +33,10 @@ See [Ansible Project](https://github.com/users/papanito/projects/3) for work in 
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=papanito&show_icons=true&locale=en&layout=compact)
 
-<p align="left"> <a href="https://ansible.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="anisble" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://ansible.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> 
+<a href="https://nixos.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" alt="nixos" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://sourceforge.net/projects/zsh/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Z_Shell_Logo_Color_Horizontal.svg/1920px-Z_Shell_Logo_Color_Horizontal.svg.png" alt="bash" width="40" height="40"/> </a>
+<a href="https://sourceforge.net/projects/zsh/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/zsh.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://wiki.zshell.dev/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/93575852?s=200&v=4" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
