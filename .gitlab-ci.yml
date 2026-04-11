@@ -16,6 +16,7 @@ update-readme:
     # 1. Run a python snippet to fetch feed and update README
     - |
       python3 -c "
+      from time import strftime, mktime
       import feedparser
       import re
 
@@ -29,9 +30,15 @@ update-readme:
           print('No entries found. Check RSS URL.')
           sys.exit(0)
 
-      entries = [f'- [{e.title}]({e.link})' for e in feed.entries[:10]]
+      entries = []
+      for e in feed.entries[:10]:
+          if hasattr(e, 'published_parsed') and e.published_parsed:
+              date = strftime('%Y-%m-%d', e.published_parsed)
+          else:
+              date = 'Unknown date'
+          entries.append(f'- {date} [{e.title}]({e.link})')
       new_content = '\n'.join(entries)
-
+      
       with open(file_path, 'r') as f:
           original_readme = f.read()
 
@@ -39,7 +46,7 @@ update-readme:
       # \1 captures the start tag, \2 captures the end tag
       # .*? matches the old content inside without touching outside text
       pattern = re.escape(start_tag) + r'.*?' + re.escape(end_tag)
-      replacement = f'\\1{start_tag}{new_content}{end_tag}\\2'
+      replacement = f'\\1{start_tag}\n{new_content}{end_tag}\n\\2'
 
       # Perform replacement (re.DOTALL allows matching across multiple lines)
       updated_readme = re.sub(pattern, replacement, original_readme, flags=re.DOTALL)
