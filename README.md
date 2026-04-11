@@ -53,4 +53,5 @@ See [Ansible Project](https://github.com/users/papanito/projects/3) for work in 
 
 ### Support me
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E840H5P)
+- [Hetzner Referral Code](https://hetzner.cloud/?ref=2POcOxl1qcEk)
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E840H5P)
