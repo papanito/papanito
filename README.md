@@ -20,6 +20,7 @@ For recruiters my CV is available on request at <https://papanito.gitlab.io/resu
 - 2025-01-23 [Copy of Failed to get the data key required to decrypt the SOPS file: The provided grant has expired due to it being revoked](https://wyssmann.com/blog/2025/01/copy-of-failed-to-get-the-data-key-required-to-decrypt-the-sops-file-the-provided-grant-has-expired-due-to-it-being-revoked/)<!-- feed end -->
 
 
+
 ### Github Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=papanito&show_icons=true&locale=en)
