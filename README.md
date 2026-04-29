@@ -8,6 +8,7 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 
 For recruiters my CV is available on request at <https://papanito.gitlab.io/resume>
 <!-- feed start -->
+- 2026-04-22 [Better git commits and Pull Requests](https://wyssmann.com/blog/2026/04/better-git-commits-and-pull-requests/)
 - 2026-03-19 [Software Testing Section](https://wyssmann.com/blog/2026/03/software-testing-section/)
 - 2026-03-02 [Use Bitwarden and direnv to inject env variables](https://wyssmann.com/blog/2026/03/use-bitwarden-and-direnv-to-inject-env-variables/)
 - 2026-02-15 [Paperless workflow with paperless-ngx](https://wyssmann.com/blog/2026/02/paperless-workflow-with-paperless-ngx/)
@@ -16,8 +17,8 @@ For recruiters my CV is available on request at <https://papanito.gitlab.io/resu
 - 2025-11-15 [NixOS for all my system](https://wyssmann.com/blog/2025/11/nixos-for-all-my-system/)
 - 2025-06-17 [Chezmoi externals behind a coorporate proxy](https://wyssmann.com/blog/2025/06/chezmoi-externals-behind-a-coorporate-proxy/)
 - 2025-06-01 [NixOS my new linux distro](https://wyssmann.com/blog/2025/06/nixos-my-new-linux-distro/)
-- 2025-02-13 [How to use separate environment configuration files ArgoCD](https://wyssmann.com/blog/2025/02/how-to-use-separate-environment-configuration-files-argocd/)
-- 2025-01-23 [Copy of Failed to get the data key required to decrypt the SOPS file: The provided grant has expired due to it being revoked](https://wyssmann.com/blog/2025/01/copy-of-failed-to-get-the-data-key-required-to-decrypt-the-sops-file-the-provided-grant-has-expired-due-to-it-being-revoked/)<!-- feed end -->
+- 2025-02-13 [How to use separate environment configuration files ArgoCD](https://wyssmann.com/blog/2025/02/how-to-use-separate-environment-configuration-files-argocd/)<!-- feed end -->
+
 
 
 
