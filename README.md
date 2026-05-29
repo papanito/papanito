@@ -8,6 +8,8 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 
 For recruiters my CV is available on request at <https://papanito.gitlab.io/resume>
 <!-- feed start -->
+- 2026-05-29 [Ingress for my local kind cluster](https://wyssmann.com/blog/2026/05/ingress-for-my-local-kind-cluster/)
+- 2026-05-28 [NixOS for all my system - part 3](https://wyssmann.com/blog/2026/05/nixos-for-all-my-system-part-3/)
 - 2026-04-22 [Better git commits and Pull Requests](https://wyssmann.com/blog/2026/04/better-git-commits-and-pull-requests/)
 - 2026-03-19 [Software Testing Section](https://wyssmann.com/blog/2026/03/software-testing-section/)
 - 2026-03-02 [Use Bitwarden and direnv to inject env variables](https://wyssmann.com/blog/2026/03/use-bitwarden-and-direnv-to-inject-env-variables/)
@@ -15,9 +17,8 @@ For recruiters my CV is available on request at <https://papanito.gitlab.io/resu
 - 2026-01-13 [User Bitwarden as ssh agent](https://wyssmann.com/blog/2026/01/user-bitwarden-as-ssh-agent/)
 - 2026-01-11 [NixOS for all my system - part 2](https://wyssmann.com/blog/2026/01/nixos-for-all-my-system-part-2/)
 - 2025-11-15 [NixOS for all my system](https://wyssmann.com/blog/2025/11/nixos-for-all-my-system/)
-- 2025-06-17 [Chezmoi externals behind a coorporate proxy](https://wyssmann.com/blog/2025/06/chezmoi-externals-behind-a-coorporate-proxy/)
-- 2025-06-01 [NixOS my new linux distro](https://wyssmann.com/blog/2025/06/nixos-my-new-linux-distro/)
-- 2025-02-13 [How to use separate environment configuration files ArgoCD](https://wyssmann.com/blog/2025/02/how-to-use-separate-environment-configuration-files-argocd/)<!-- feed end -->
+- 2025-06-17 [Chezmoi externals behind a coorporate proxy](https://wyssmann.com/blog/2025/06/chezmoi-externals-behind-a-coorporate-proxy/)<!-- feed end -->
+
 
 
 
