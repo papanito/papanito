@@ -63,3 +63,15 @@ update-readme:
           f.write(updated)
       print('README.md updated successfully.')
       "
+
+    # Push the changes back to the repo
+    - git config --global user.email "ci@wyssmann.com"
+    - git config --global user.name "CI Bot"
+    - git add README.md
+    - |
+      if git commit -m "docs: update feed [skip ci]"; then
+        # Use a Project Access Token for authentication
+        git push "https://project_${CI_PROJECT_ID}_bot:${GL_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git" HEAD:${CI_DEFAULT_BRANCH}
+      else
+        echo "No changes to commit"
+      fi
