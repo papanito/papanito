@@ -15,7 +15,7 @@ update-readme:
   script:
     - |
       python3 -c "
-      import sys, re
+      import sys, re, requests, feedparser
       from time import strftime
       import feedparser
 
