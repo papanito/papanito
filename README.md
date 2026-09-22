@@ -17,7 +17,8 @@ For recruiters my CV is available on request at <https://papanito.gitlab.io/resu
 - 2026-01-13 [User Bitwarden as ssh agent](https://wyssmann.com/blog/2026/01/user-bitwarden-as-ssh-agent/)
 - 2026-01-11 [NixOS for all my system - part 2](https://wyssmann.com/blog/2026/01/nixos-for-all-my-system-part-2/)
 - 2025-11-15 [NixOS for all my system](https://wyssmann.com/blog/2025/11/nixos-for-all-my-system/)
-- 2025-06-17 [Chezmoi externals behind a coorporate proxy](https://wyssmann.com/blog/2025/06/chezmoi-externals-behind-a-coorporate-proxy/)<!-- feed end -->
+- 2025-06-17 [Chezmoi externals behind a coorporate proxy](https://wyssmann.com/blog/2025/06/chezmoi-externals-behind-a-coorporate-proxy/)
+<!-- feed end -->
 
 
 
