@@ -10,14 +10,13 @@ update-readme:
     - if: $CI_PIPELINE_SOURCE == "schedule"
     - if: $CI_PIPELINE_SOURCE == "web"
   before_script:
-    - pip install feedparser
+    - pip install feedparser requests
     - apt-get update && apt-get install -y git
   script:
     - |
       python3 -c "
       import sys, re, requests, feedparser
       from time import strftime
-      import feedparser
 
       feed_url = 'https://wyssmann.com/blog/index.xml'
       file_path = 'README.md'
