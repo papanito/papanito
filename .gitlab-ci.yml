@@ -13,63 +13,53 @@ update-readme:
     - pip install feedparser
     - apt-get update && apt-get install -y git
   script:
-    # 1. Run a python snippet to fetch feed and update README
     - |
       python3 -c "
-      from time import strftime, mktime
+      import sys, re
+      from time import strftime
       import feedparser
-      import re
 
       feed_url = 'https://wyssmann.com/blog/index.xml'
       file_path = 'README.md'
-      feed = feedparser.parse(feed_url)
       start_tag = '<!-- feed start -->'
-      end_tag = '<!-- feed end -->'
+      end_tag   = '<!-- feed end -->'
 
+      feed = feedparser.parse(feed_url)
+      if feed.bozo and not feed.entries:
+          print(f'Feed parse error: {feed.bozo_exception}')
+          sys.exit(1)
       if not feed.entries:
-          print('No entries found. Check RSS URL.')
-          sys.exit(0)
+          print('No entries found. Check RSS URL / user-agent blocking.')
+          sys.exit(1)
 
       entries = []
       for e in feed.entries[:10]:
-          if hasattr(e, 'published_parsed') and e.published_parsed:
+          title = getattr(e, 'title', 'Untitled')
+          link  = getattr(e, 'link', '#')
+          if getattr(e, 'published_parsed', None):
               date = strftime('%Y-%m-%d', e.published_parsed)
           else:
               date = 'Unknown date'
-          entries.append(f'- {date} [{e.title}]({e.link})')
+          entries.append(f'- {date} [{title}]({link})')
+
       new_content = '\n'.join(entries)
-      
-      with open(file_path, 'r') as f:
-          original_readme = f.read()
 
-      # Define the surgical pattern
-      # \1 captures the start tag, \2 captures the end tag
-      # .*? matches the old content inside without touching outside text
-      pattern = re.escape(start_tag) + r'.*?' + re.escape(end_tag)
-      replacement = f'{start_tag}\n{new_content}{end_tag}\n'
+      with open(file_path) as f:
+          original = f.read()
 
-      # Perform replacement (re.DOTALL allows matching across multiple lines)
-      updated_readme = re.sub(pattern, replacement, original_readme, flags=re.DOTALL)
-
-      # Warn if no markers were found
-      if updated_readme == original_readme and '<!-- feed start -->' not in original_readme:
-          print('Warning: markers not found in README.md — nothing was replaced.')
+      if start_tag not in original or end_tag not in original:
+          print('ERROR: feed markers not found in README.md')
           sys.exit(1)
 
-      # 5. Save the result
-      with open('README.md', 'w') as f:
-          f.write(updated_readme)
+      pattern = re.escape(start_tag) + r'.*?' + re.escape(end_tag)
+      replacement = f'{start_tag}\n{new_content}\n{end_tag}'
+      updated = re.sub(pattern, lambda m: replacement, original, flags=re.DOTALL)
 
+      if updated == original:
+          print('README.md already up to date.')
+          sys.exit(0)
+
+      with open(file_path, 'w') as f:
+          f.write(updated)
       print('README.md updated successfully.')
       "
-    # Push the changes back to the repo
-    - git config --global user.email "ci@wyssmann.com"
-    - git config --global user.name "CI Bot"
-    - git add README.md
-    - |
-      if git commit -m "docs: update feed [skip ci]"; then
-        # Use a Project Access Token for authentication
-        git push "https://project_${CI_PROJECT_ID}_bot:${GL_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git" HEAD:${CI_DEFAULT_BRANCH}
-      else
-        echo "No changes to commit"
-      fi
