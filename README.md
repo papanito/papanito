@@ -4,7 +4,9 @@
 
 I am a passionate Platform Engineer from Switzerland, father of five and husband of the most beautiful and most amazing woman in the world.
 
-I created [![EventCompass](https://eventcompass.wyssmann.eu/resources/icon_colored_96x96.png)](https://eventcompass.wyssmann.eu)
+[![EventCompass](https://eventcompass.wyssmann.eu/resources/icon_colored_96x96.png)](https://eventcompass.wyssmann.eu)
+
+I created [EventCompass](https://eventcompass.wyssmann.eu/)
 > Your events, organized. Never lose your way.
 >
 > EventCompass is the go-to event planner for everything from small family gatherings, milestone birthdays, quinceañeras, corporate galas, and charity fundraisers.
