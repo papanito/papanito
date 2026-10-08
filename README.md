@@ -2,11 +2,17 @@
 
 ## Hi 👋, I'm Adrian
 
-I am a passionate DevOps Engineer from Switzerland, father of five and husband of the most beautiful and most amazing woman in the world.
+I am a passionate Platform Engineer from Switzerland, father of five and husband of the most beautiful and most amazing woman in the world.
+
+I created [![EventCompass](https://eventcompass.wyssmann.eu/resources/icon_colored_96x96.png)](https://eventcompass.wyssmann.eu)
+> Your events, organized. Never lose your way.
+>
+> EventCompass is the go-to event planner for everything from small family gatherings, milestone birthdays, quinceañeras, corporate galas, and charity fundraisers.
 
 I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/blog), maybe there is something interesting for you there.
 
 For recruiters my CV is available on request at <https://papanito.gitlab.io/resume>
+
 <!-- feed start -->
 - 2026-09-22 [Optimizing AI Agent Costs: My Model Plan for Oh My Pi](https://wyssmann.com/blog/2026/09/optimizing-ai-agent-costs-my-model-plan-for-oh-my-pi/)
 - 2026-08-16 [Why I Chose Ollama Cloud as My Primary AI Infrastructure Tier](https://wyssmann.com/blog/2026/08/why-i-chose-ollama-cloud-as-my-primary-ai-infrastructure-tier/)
@@ -19,158 +25,6 @@ For recruiters my CV is available on request at <https://papanito.gitlab.io/resu
 - 2026-02-15 [Paperless workflow with paperless-ngx](https://wyssmann.com/blog/2026/02/paperless-workflow-with-paperless-ngx/)
 - 2026-01-13 [User Bitwarden as ssh agent](https://wyssmann.com/blog/2026/01/user-bitwarden-as-ssh-agent/)
 <!-- feed end -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Github Stats
 
