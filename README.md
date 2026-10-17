@@ -16,6 +16,7 @@ I regularly write articles on [https://wyssmann.com/blog](https://wyssmann.com/b
 For recruiters my CV is available on request at <https://papanito.gitlab.io/resume>
 
 <!-- feed start -->
+- 2026-10-17 [EventCompass: Hard-Learned Lessons from AI-Driven Indie Development](https://wyssmann.com/blog/2026/10/eventcompass-hard-learned-lessons-from-ai-driven-indie-development/)
 - 2026-09-22 [Optimizing AI Agent Costs: My Model Plan for Oh My Pi](https://wyssmann.com/blog/2026/09/optimizing-ai-agent-costs-my-model-plan-for-oh-my-pi/)
 - 2026-08-16 [Why I Chose Ollama Cloud as My Primary AI Infrastructure Tier](https://wyssmann.com/blog/2026/08/why-i-chose-ollama-cloud-as-my-primary-ai-infrastructure-tier/)
 - 2026-08-10 [Why I Chose `oh-my-pi` (`omp`) as my ai harness](https://wyssmann.com/blog/2026/08/why-i-chose-oh-my-pi-omp-as-my-ai-harness/)
@@ -25,7 +26,6 @@ For recruiters my CV is available on request at <https://papanito.gitlab.io/resu
 - 2026-03-19 [Software Testing Section](https://wyssmann.com/blog/2026/03/software-testing-section/)
 - 2026-03-02 [Use Bitwarden and direnv to inject env variables](https://wyssmann.com/blog/2026/03/use-bitwarden-and-direnv-to-inject-env-variables/)
 - 2026-02-15 [Paperless workflow with paperless-ngx](https://wyssmann.com/blog/2026/02/paperless-workflow-with-paperless-ngx/)
-- 2026-01-13 [User Bitwarden as ssh agent](https://wyssmann.com/blog/2026/01/user-bitwarden-as-ssh-agent/)
 <!-- feed end -->
 
 ### Github Stats
